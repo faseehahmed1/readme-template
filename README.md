@@ -40,7 +40,7 @@ N.B. To add the video edit the readme in GitHub itself not via vsCode, drag and 
 Clone the project
 
 ```bash
-  git clone https://github.com/faseehahmed1/asset_insights_tech_test_frontend.git
+  git clone https://your-link-here.com/.git
 ```
 
 Install dependencies
