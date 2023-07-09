@@ -1,5 +1,5 @@
 
-# Asset Insights Front End (Tech Test)
+# [Company Name] Front End (Tech Test)
 
 ## Overview
 
