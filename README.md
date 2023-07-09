@@ -32,9 +32,8 @@ https://you-link-here.netlify.app/
 
 - A talk-through of my solution
 
-
-**upload your vide as mp4 here**
-
+**Upload your vidoe as mp4 here**
+N.B. To add the video edit the readme in GitHub itself not via vsCode, drag and drop your mp4 file into the readme. 
 
 ## Run Locally
 
