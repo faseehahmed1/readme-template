@@ -1,5 +1,5 @@
 
-# [Company Name] Front End (Tech Test)
+# Front End (Tech Test)
 
 ## Overview
 
